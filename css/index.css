@@ -1,14 +1,5 @@
-/** {
-    padding: 0;
-    margin: 0;
-}*/
-
 body {
     background-color: #629C44;
-}
-
-header {
-    border: solid 2px black;
 }
 
 header .header-line {
@@ -90,11 +81,9 @@ button {
 
 footer {
     display: flex;
-    border: red solid 1px;
 }
 
 footer img {
     width: 50px;
     height: 50px;
-    justify-content: flex-end;
 }
